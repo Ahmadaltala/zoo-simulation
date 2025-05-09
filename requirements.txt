@@ -1,0 +1,4 @@
+# Required libraries for the Zoo Simulation project
+threading
+random
+time
